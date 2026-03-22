@@ -1,0 +1,1 @@
+var e={PING:`https://dolar-sed5.onrender.com/ping`,EVENT:`wss://dolar-sed5.onrender.com/_event`,UPLOAD:`https://dolar-sed5.onrender.com/_upload`,AUTH_CODESPACE:`https://dolar-sed5.onrender.com/auth-codespace`,HEALTH:`https://dolar-sed5.onrender.com/_health`,ALL_ROUTES:`https://dolar-sed5.onrender.com/_all_routes`,TRANSPORT:`websocket`,TEST_MODE:!1};export{e as t};
